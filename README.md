@@ -1,6 +1,7 @@
 1.Run this in a python virtual environment.
 
 2.Have appropriate Python Modules installed (will write script)
+-sudo pip install -r requirements.txt
 
 3.Run app.py to run Flask Web App on local host
 
